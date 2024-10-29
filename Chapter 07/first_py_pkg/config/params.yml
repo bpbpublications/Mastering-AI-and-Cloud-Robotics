@@ -1,0 +1,5 @@
+NodeWithParams:
+ ros__parameters:
+ param_waypoint: "Waypoint A"
+ alert_notification: False
+ battery_percentage_warning: 20.0

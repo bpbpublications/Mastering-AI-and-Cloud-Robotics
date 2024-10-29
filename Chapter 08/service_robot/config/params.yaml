@@ -1,0 +1,15 @@
+/**:
+  ros__parameters:
+    endpoint : "a2jpo8oimnxaly-ats.iot.ap-south-1.amazonaws.com"
+    port : 8883
+    rootCAPath : "/home/shakil/certs/rootCA.pem"
+    certificatePath : "/home/shakil/certs/service-robot.crt"
+    privateKeyPath : "/home/shakil/certs/service-robot-private.pem.key"
+    clientID : "service-robot"
+    region: "ap-south-1"
+    statsTopic: "robot/amr01/data"
+    cmdSubsTopic: "robot/amr01/command"
+    rosCmdTopic: "ros_cmd"
+    rosStatsTopic: "ros_stats_topic"
+
+

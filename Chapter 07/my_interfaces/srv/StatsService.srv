@@ -1,0 +1,6 @@
+# StatsService.srv
+
+bool publish
+string payload
+---
+string output

@@ -1,0 +1,8 @@
+# Request type
+int32 start_num
+---
+# Result type
+bool is_completed
+---
+# Feedback type
+int32 current_num
